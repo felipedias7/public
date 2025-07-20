@@ -1,4 +1,3 @@
-# public
 # Felipe Dias - CEO Imobisoft 
 
 Desenvolvedor e empreendedor especializado em soluções para o mercado imobiliário.
